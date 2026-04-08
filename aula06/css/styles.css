@@ -10,6 +10,18 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+.meu{
+  display: flex;
+  justify-content: center;
+}
+
+.meuimg{
+  display: flex;
+  justify-content: center;
+  width: 500px;
+}
+
 :root {
   --bs-blue: #1e30f3;
   --bs-indigo: #6610f2;
@@ -11594,6 +11606,12 @@ html {
   max-height: 40rem;
   max-width: 40rem;
 }
+
+.profile{
+  display: flex;
+  justify-content: center;
+}
+
 .profile .profile-img {
   height: 80vw;
   max-height: 500px;
