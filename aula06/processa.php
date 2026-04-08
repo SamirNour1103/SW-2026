@@ -6,16 +6,16 @@
     //senha: 1234
     
 
-    if ($email == 'adm@gmail.com' && $senha == '1234') {
+    if ($email == 'areasupersuperrestrita@gmail.com' && $senha == '244466666') {
         //vamos para a área restrita
         //echo 'vamos para a área restrita';
-        $nome = "PietoRodrigues";
+        $nome = "Samir";
 
-        header('Location: contact.php?nome='.$nome);
+        header('Location: restrita.php?nome='.$nome);
     } else {
         //volta para o forms
         //echo 'volta para o forms';
-        header('Location: formulário.php');
+        header('Location: erro.php');
     }
     
 ?>
