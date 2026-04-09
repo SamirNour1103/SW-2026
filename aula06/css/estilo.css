@@ -1,0 +1,23 @@
+.meuh1{
+    font-size: 100px;
+
+}
+
+body{
+    color: white;
+    background: rgb(34, 117, 241);
+}
+section{
+    margin-left: 100px;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 6px;
+}
