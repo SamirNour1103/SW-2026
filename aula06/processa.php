@@ -11,7 +11,7 @@
         //echo 'vamos para a área restrita';
         $nome = "Samir";
 
-        header('Location: restrita.php?nome='.$nome);
+        header('Location: secreta.php?nome='.$nome);
     } else {
         //volta para o forms
         //echo 'volta para o forms';
