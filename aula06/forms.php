@@ -28,7 +28,7 @@
                                 <!-- To make this form functional, sign up at-->
                                 <!-- https://startbootstrap.com/solution/contact-forms-->
                                 <!-- to get an API token!-->
-                                    <form action="processa.php" method="POST">
+                                    <form action="secreta.php" method="POST">
                                         <div class="mb-3">
                                             <label for="exampleInputEmail1" class="form-label">Endereço de email</label>
                                             <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="email">
